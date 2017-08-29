@@ -1,0 +1,10 @@
+{
+    "port": 7000,
+    "address": "127.0.0.1",
+    "routes": {
+      "cors": true,
+      "json": {
+        "space": 4
+      }
+    }
+  }
